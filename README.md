@@ -18,6 +18,15 @@ I’m a developer focused on creating useful, engaging digital experiences while
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sometimes attend bootcamps and technology events—even when it means missing a class—to gain practical, hands-on knowledge. I’m building real-world experience one event at a time!
 
+## 🛠️ Tech Stack & Core Competencies
+
+| Category | Technologies & Tools |
+|---|---|
+| **Languages** | C++, Python, JavaScript, SQL, HTML5, CSS3 |
+| **Web & Frameworks** | React, Node.js, Express.js, REST APIs |
+| **Libraries & Tools** | Pandas, NumPy, Git, GitHub, VS Code |
+| **Core CS Concepts** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), DBMS |
+
 ## Featured projects
 
 ### 🎮 [AI-Generated Snake Game with React](https://github.com/kvkAneesa/AI-Generated-Snake-game-with-React)
