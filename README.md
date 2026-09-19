@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm Aneesa
 
-<marquee behavior="scroll" direction="left" scrollamount="7" style="font-weight: bold; font-size: 18px; color: #58a6ff;">
-  Software Developer • Frontend Enthusiast • Building AI Foundations • Learning Core Structures of AI • Problem Solver • Always Growing
-</marquee>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Building+AI+Foundations;Learning+Python%2C+Java%2C+and+C;Exploring+Deep+Learning+and+Prompt+Engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,8 +48,6 @@ A practical web project focused on usability and creative UI experimentation.
 
 <div align="center">
 
-<marquee behavior="scroll" direction="left" scrollamount="5" style="font-weight: bold; color: #7ee787;">
-  Building • Learning • Creating • Exploring AI • Improving daily
-</marquee>
+✨ Building • Learning • Creating • Exploring AI • Improving daily ✨
 
 </div>
