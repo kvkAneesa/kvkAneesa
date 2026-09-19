@@ -15,7 +15,6 @@ I’m a developer focused on creating useful, engaging digital experiences while
 - 🤝 Looking to collaborate on deep learning, AI projects, and prompt engineering
 - 🛠️ Looking for help exploring new features and hands-on AI tools
 - 💡 Ask me about my latest technology ideas
-- 📫 Reach me at [shaikanisa2007@gmail.com](mailto:shaikanisa2007@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I sometimes attend bootcamps and technology events—even when it means missing a class—to gain practical, hands-on knowledge. I’m building real-world experience one event at a time!
 
@@ -30,23 +29,12 @@ A project designed to highlight community discovery and accessible interactive d
 ### 🔄 [projectswapx](https://github.com/kvkAneesa/projectswapx)
 A practical web project focused on usability and creative UI experimentation.
 
-## Skills
+## Connect with me
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<div align="center">
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikanisa2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesa-syed-1204b428?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ✨ Building • Learning • Creating • Exploring AI • Improving daily ✨
 
